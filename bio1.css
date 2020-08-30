@@ -6,6 +6,11 @@ nav {
     background-color: rgb(9, 177, 177);
 }
 
-body {
-    margin: 20%;
+.card {
+    margin-top: 50px;
+}
+.card-img-top {
+    width: 250px;
+    height: auto;
+    margin: 25px;
 }
