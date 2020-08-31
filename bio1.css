@@ -6,7 +6,7 @@ nav {
     background-color: rgb(9, 177, 177);
 }
 
-.about-me {
+.card-line {
     margin-left: 25px;
 }
 .card-img-top {
@@ -18,8 +18,4 @@ nav {
 
 .card {
     margin-top: 5rem;
-}
-
-.card-text {
-    margin-left: 25px;
 }
