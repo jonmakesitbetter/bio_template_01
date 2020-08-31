@@ -6,9 +6,11 @@ nav {
     background-color: rgb(9, 177, 177);
 }
 
-
+.about-me {
+    margin-left: 25px;
+}
 .card-img-top {
-    width: 250px;
+    width: 80%;
     height: auto;
     margin-left: 25px;
     margin-right: 50px;
@@ -16,4 +18,8 @@ nav {
 
 .card {
     margin-top: 5rem;
+}
+
+.card-text {
+    margin-left: 25px;
 }
