@@ -15,5 +15,14 @@ form {
 }
 .btn {
     background-color:rgb(9, 177, 177);
-    
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+.header{
+    color:rgb(9, 177, 177);
+    margin-left: 1rem;
+}
+
+.form-group{
+    margin-left: 4rem;
 }
