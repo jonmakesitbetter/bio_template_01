@@ -3,6 +3,12 @@ body {
 }
 
 nav {
+    background-color: white;
+}
+.my-name {
+    font-size: 2rem;
     background-color: rgb(9, 177, 177);
 }
-
+form {
+    margin-top: 5rem;
+}

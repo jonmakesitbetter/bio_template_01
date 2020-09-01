@@ -3,9 +3,15 @@ body {
 }
 
 nav {
+    background-color: white;
+}
+.my-name {
+    font-size: 2rem;
     background-color: rgb(9, 177, 177);
 }
-
+.card-name {
+    color: rgb(9, 177, 177);
+}
 .card-line {
     margin-left: 25px;
 }
@@ -18,4 +24,7 @@ nav {
 
 .card {
     margin-top: 5rem;
+}
+.navbar-brand {
+    text-decoration-color: rgb(9, 177, 177);
 }
