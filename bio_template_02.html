@@ -19,75 +19,54 @@
     />
     <link rel="stylesheet" href="bio2.css" />
   </head>
-  <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="#">Jonathan Peach</a>
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-toggle="collapse"
-      data-target="#navbarNav"
-      aria-controls="navbarNav"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a id="home" class="nav-link" href="./bio_template_01.html"
-            >Home <span class="sr-only">(current)</span></a
-          >
-        </li>
-        <li id="contact" class="nav-item">
-          <a class="nav-link" href="./bio_template_02.html">Contact</a>
-        </li>
-        <li id="portfolio" class="nav-item">
-          <a class="nav-link" href="./bio_template_03.html">Portfolio</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
   <body>
-    <container>
-       <div class="row">
-           <div class="col-sm-8">
-
-
-      <form>
-        <div class="form-group">
-          <div class="form-group">
-            <label for="exampleInputPassword1">Password</label>
-            <input
-              type="password"
-              class="form-control"
-              id="exampleInputPassword1"
-            />
-          </div>
-          <label for="exampleInputEmail1">Email address</label>
-          <input
-            type="email"
-            class="form-control"
-            id="exampleInputEmail1"
-            aria-describedby="emailHelp"
-          />
-          <small id="emailHelp" class="form-text text-muted"
-            ></small
-          >
-          <div class="form-group">
-            <label for="exampleFormControlTextarea1">Example textarea</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-          </div>
-        </form>
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="#">Jonathan Peach</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a id="home" class="nav-link" href="./bio_template_01.html"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+          <li id="contact" class="nav-item">
+            <a class="nav-link" href="./bio_template_02.html">Contact</a>
+          </li>
+          <li id="portfolio" class="nav-item">
+            <a class="nav-link" href="./bio_template_03.html">Portfolio</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8">
+            <form>
+                <div class="form-group">
+                  <label for="exampleInputPassword1">Name</label>
+                  <input type="password" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                  </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </form>
+        </div>
+      </div>
     </div>
-</div> 
-        </div>
-        <div class="form-group form-check">
-          <input type="checkbox" class="form-check-input" id="exampleCheck1" />
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </form>
-    </container>
     <!--[if lt IE 7]>
       <p class="browsehappy">
         You are using an <strong>outdated</strong> browser. Please
