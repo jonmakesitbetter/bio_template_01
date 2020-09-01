@@ -7,7 +7,6 @@ nav {
 }
 .jumbotron{
     margin-top:5rem;.
-    background-color: white;
 }
 .my-name {
     font-size: 2rem;
@@ -16,4 +15,5 @@ nav {
 .portfolio-a{
     height: 350px;
     width: 350px;
+    padding: 10px;
 }
