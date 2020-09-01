@@ -28,7 +28,14 @@ nav {
 .navbar-brand {
     text-decoration-color: rgb(9, 177, 177);
 }
-
+#footer-cap{
+    height:5rem;
+    width: 100%;
+    background-color:rgb(9, 177, 177);
+    position: fixed;
+    left: 0;
+    bottom:0;
+}
 footer {
     position: fixed;
     left: 0;
