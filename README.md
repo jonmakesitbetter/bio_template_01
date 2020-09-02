@@ -1,4 +1,18 @@
 # bio_template_01
+
+## Description 
+
+This project was intended as an introduction to HTML and CSS while laying the groundwork for a biography to be 
+edited in later versions. 
+
+## Credits
+
+Credit goes to all of my instructors, TA's, and classmates for their invaluable help and to the websites listed below.
+https://www.w3schools.com/
+https://stackoverflow.com/
+
+## License
+
 Bio Template Reproduction
 
                                  Apache License
