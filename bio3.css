@@ -6,15 +6,15 @@ nav {
     background-color: white;
 }
 .jumbotron{
-    margin-top:5rem;.
+    margin-top: 5rem;
 }
 .my-name {
     font-size: 2rem;
     background-color: rgb(9, 177, 177);
 }
 .portfolio-a{
-    height: 350px;
-    width: 350px;
+    height: 210px;
+    width: 150px;
     padding: 10px;
 }
 #footer-cap{
